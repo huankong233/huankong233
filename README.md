@@ -2,11 +2,6 @@
 
 ## 👋 Hi there, I'm [huan_kong](https://blog.huankong.top) 
 
-I'm a passionate self-taught full stack developer from China.
-- 🔭 I’m currently a student
-- 🌱 I’m currently learning Java and Rust
-- ❤  I'm using ~~ArchLinux~~ which is one of the best linux in the world! 
-
 [🏠 HomePage](https://huankong.top) · [📚 Blog](https://blog.huankong.top) · [🔥 Api](https://api.huankong.top)
 
 ## 🔨 Languages and Tools:
